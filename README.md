@@ -19,6 +19,5 @@ Use the following command for hyperparameter searching, allowing you to set the 
 ```python hyperparameter.py --decay_style DS --epochs E```
 The default search parameters include learning rate, batch size, hidden layer sizes, regularization strength, and learning rate decay coefficient. For additional adjustments, modifications can be made directly to `hyperparameter.py`.
 
-
-
+A detailed explanation of each file can be found in the report. And hyperparameter_searching_results include the logging information of the hyperparameter searching process.
 
