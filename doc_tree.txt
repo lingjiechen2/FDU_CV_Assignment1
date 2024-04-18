@@ -1,0 +1,54 @@
+D:\UNIVERSITY_RESOURCES\2023-2024 TERM_2\COMPUTER VISION\ASSIGNMENT_1
+├─best_param
+│  ├─epoches_100_lr_0.1_decay_constant_derate_1.0_batchsize_64_hidden_(256, 128)_lambda_0.01
+│  ├─epoches_100_lr_0.1_decay_exponential_derate_0.95_batchsize_32_hidden_(256, 128)_lambda_0.01
+│  ├─epoches_10_lr_0.01_decay_constant_derate_1.0_batchsize_32_hidden_(256, 128)_lambda_0.005
+│  ├─epoches_10_lr_0.1_decay_exponential_derate_0.9_batchsize_32_hidden_(256, 128)_lambda_0.01
+│  ├─epoches_30_lr_0.1_decay_constant_derate_1.0_batchsize_32_hidden_(128, 64)_lambda_0.01
+│  ├─epoches_30_lr_0.1_decay_exponential_derate_0.95_batchsize_32_hidden_(256, 128)_lambda_0.01
+│  ├─epoches_50_lr_0.1_decay_constant_derate_1.0_batchsize_64_hidden_(256, 128)_lambda_0.01
+│  └─epoches_50_lr_0.1_decay_exponential_derate_0.95_batchsize_32_hidden_(256, 128)_lambda_0.01
+├─fashion-mnist
+│  ├─.git
+│  │  ├─branches
+│  │  ├─hooks
+│  │  ├─info
+│  │  ├─logs
+│  │  │  └─refs
+│  │  │      ├─heads
+│  │  │      └─remotes
+│  │  │          └─origin
+│  │  ├─objects
+│  │  │  ├─info
+│  │  │  └─pack
+│  │  └─refs
+│  │      ├─heads
+│  │      ├─remotes
+│  │      │  └─origin
+│  │      └─tags
+│  ├─benchmark
+│  ├─data
+│  │  ├─fashion
+│  │  └─mnist
+│  ├─doc
+│  │  └─img
+│  ├─static
+│  │  ├─css
+│  │  ├─img
+│  │  └─js
+│  ├─utils
+│  │  └─__pycache__
+│  └─visualization
+├─hyperparameter_search_result
+├─model_visualization
+│  ├─epoches_100_lr_0.1_decay_constant_derate_1.0_batchsize_64_hidden_(256, 128)_lambda_0.01
+│  ├─epoches_100_lr_0.1_decay_exponential_derate_0.95_batchsize_32_hidden_(256, 128)_lambda_0.01
+│  ├─epoches_10_lr_0.01_decay_constant_derate_1.0_batchsize_32_hidden_(256, 128)_lambda_0.005
+│  ├─epoches_10_lr_0.1_decay_exponential_derate_0.9_batchsize_32_hidden_(256, 128)_lambda_0.01
+│  ├─epoches_30_lr_0.1_decay_constant_derate_1.0_batchsize_32_hidden_(128, 64)_lambda_0.01
+│  ├─epoches_30_lr_0.1_decay_exponential_derate_0.95_batchsize_32_hidden_(256, 128)_lambda_0.01
+│  ├─epoches_50_lr_0.1_decay_constant_derate_1.0_batchsize_64_hidden_(256, 128)_lambda_0.01
+│  └─epoches_50_lr_0.1_decay_exponential_derate_0.95_batchsize_32_hidden_(256, 128)_lambda_0.01
+├─result_plot
+│  └─best_search_results
+└─__pycache__
